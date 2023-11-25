@@ -1,16 +1,3 @@
-# random_dice
+# Random Dice Thrower
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple flutter application for randomly throwing a dice. This is a basic fun application designed to get started with flutter to practice some basic concepts like Stateless widget and Stateful widget. I made this application to play around with different widgets like container, column, text and image.
